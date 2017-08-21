@@ -1,0 +1,177 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\ApplicationInsights.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\csc.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\vbc.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll.config
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\WebGrease.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.csprojResolveAssemblyReference.cache
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.dll
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.xml
+c:\users\alumnos\documents\visual studio 2015\Projects\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\ApplicationInsights.config
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\csc.exe
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Collections.Immutable.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Reflection.Metadata.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\vbc.exe
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe
+F:\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe.config
+F:\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll.config
+F:\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.pdb
+F:\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.Web.Infrastructure.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\WebGrease.dll
+F:\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.xml
+F:\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.pdb
+F:\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.xml
+F:\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.csprojResolveAssemblyReference.cache
+F:\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.dll
+F:\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.pdb
+F:\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP_CRUD2.Migrations.InitialCreate.resources
+F:\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.csproj.GenerateResource.Cache
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\ApplicationInsights.config
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\csc.exe
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\vbc.exe
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll.config
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\TDP-CRUD2.pdb
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\WebGrease.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\EntityFramework.SqlServer.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.Web.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Helpers.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Mvc.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Optimization.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.Razor.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\System.Web.WebPages.Razor.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Antlr3.Runtime.pdb
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\bin\Newtonsoft.Json.xml
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP_CRUD2.Migrations.InitialCreate.resources
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.csproj.GenerateResource.Cache
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.dll
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.pdb
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP_CRUD2.Migrations.secondMigrate.resources
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP_CRUD2.Migrations.fristmigration.resources
+C:\Users\JonathaN\Desktop\TDP-CRUD2\TDP-CRUD2\obj\Debug\TDP-CRUD2.csprojResolveAssemblyReference.cache
